@@ -1,0 +1,15 @@
+body{
+   margin: 0px;
+}
+
+body header img{
+    position: fixed;
+    width:20%;
+    height:15%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body header {
+    background: white;
+}

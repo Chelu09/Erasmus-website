@@ -1,0 +1,30 @@
+/*Comentarios*/ 
+
+/* Universal Selection*/
+*{
+    background: papayawhip;
+}
+
+/*Selector de tipo/elemento*/
+
+div{
+    background: red;
+}
+
+/*Selector de clase*/
+
+.Title{
+    color: blue;
+}
+
+/*Selector de ID*/
+#Subtitle {
+    background: black;
+    color:greenyellow;
+}
+
+/*Selector de Atributo*/
+
+a[href="https://atigra.es"]{
+    color: goldenrod;
+}

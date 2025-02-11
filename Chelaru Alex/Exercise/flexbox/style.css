@@ -1,0 +1,17 @@
+/*Folosim Flexbot*/
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: lightgrey;
+    height: 300px;
+}
+
+.item{
+    background: lightcoral;
+    width: 100px;
+    height: 100px;
+}

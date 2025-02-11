@@ -1,0 +1,22 @@
+/*TIpuri de display*/
+div{
+    background: green;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
+
+a{
+    background: lightcoral;
+    display: inline-block;
+    width: 200px;
+    height:100px;
+    margin: 20px; /*Inline margin only left and right*/
+}
+
+button{
+    background: lightcyan;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
